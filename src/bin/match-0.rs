@@ -1,3 +1,7 @@
+/*
+Same as if, else if but match will check on compile time
+*/
+
 fn main() {
     let my_name = "Bill";
     match my_name {
